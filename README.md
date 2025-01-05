@@ -1,5 +1,4 @@
 # Willkommen im die Cunten-Haus
-![](profileImage/63260f95e89bad01c5712ecf2b2e67a9.png)
 
 ## Github Desktop
 If you have Github Desktop just clone the repo and put the .git in your curseforge minecraft instance directory.
