@@ -7,10 +7,10 @@ downloads/
 emojiful/
 essential/
 logs/
-profileImage/
+#profileImage/
 saves/
 screenshots/
-shaderpacks/
+#shaderpacks/
 xaero/
 XaeroWaypoints_BACKUP240807/
 .curseclient
