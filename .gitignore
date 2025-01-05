@@ -1,11 +1,16 @@
 # Ignore These:
-.curseclient
-logs/
+.mixin.out/
 config/
+defaultconfigs/
+downloads/
 emojiful/
 essential/
+logs/
+saves/
+screenshots/
 xaero/
 XaeroWaypoints_BACKUP240807/
+.curseclient
 minecraftinstance.json
 options.txt
 servers.dat
