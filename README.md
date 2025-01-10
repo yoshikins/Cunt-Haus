@@ -1,4 +1,4 @@
-# Willkommen im die Cunten-Haus
+# Willkommen im die Cunt-Haus
 
 ## Guide
 - Download [Github Desktop](https://desktop.github.com/download/).
