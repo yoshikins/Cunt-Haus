@@ -1,10 +1,8 @@
 # Ignore Everything
 *
 
-# Except these files
+# Except these Files & Directroies
 !.gitignore
 !servers.dat
-!*.jar
-
-# ...even if they are in subdirectories
-!*/
+!mods/
+!mods/*
