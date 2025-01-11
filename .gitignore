@@ -1,26 +1,5 @@
-# Ignore These:
-.mixin.out/
-config/
-crash-reports/
-defaultconfigs/
-downloads/
-emojiful/
-essential/
-logs/
-modernfix/
-profileImage/
-resourcepacks/
-saves/
-schematics/
-screenshots/
-shaderpacks/
-xaero/
-XaeroWaypoints_BACKUP240807/
-.curseclient
-minecraftinstance.json
-ops.json
-options.txt
-servers.essential.dat
-usercache.json
-usernamecache.json
-whitelist.json
+# Ignore Everything:
+*
+
+# Except .jar Files:
+!*.jar
