@@ -51,6 +51,15 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
+  },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
   "delightful": {
     "crop_progress": true,
     "pie_icons": true,
