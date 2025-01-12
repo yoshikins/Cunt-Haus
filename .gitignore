@@ -6,6 +6,3 @@
 !servers.dat
 !mods/
 !mods/*
-!config/
-!config/**
-!config/***
