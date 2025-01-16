@@ -1,22 +1,26 @@
 # Willkommen im die Cunt-Haus
 
 ## Guide
-- Download [Github Desktop](https://desktop.github.com/download/).
+- Download [Github Desktop](https://desktop.github.com/download) and log in or make an account if you do not have one already.
 - Using [Curseforge](https://www.curseforge.com/download/app) or any other mod manager, create a minecraft instance with these specs:
   - Minecraft Version 1.20.1
   - Forge Version 47.3.0
-- Using Github Desktop, clone [this repo](https://github.com/yoshikins/CuntenHausen) into the same directory as the new minecraft instance.
-  - Be sure that it doesn't create a sub-folder in the instance directory, and instead shares it.
-  - It should look like this:
+- Using Github Desktop, clone this repository into a temporary directory on your device using the repository URL.
+- It may take a moment to do so, as you're essentially downloading an uncompressed version of the modpack to your device.
+- When it's done cloning, make sure that you have hidden files visible in your file explorer, and move (not copy) all of the contents in the temporary directory to the Minecraft directory that your mod manager created.
+- It should look like this:
 
 ![This is what it should look like](https://github.com/user-attachments/assets/2f18ce57-fe8e-4f50-8bc1-e82656762a4f)
 
-Note: you may have to move the files manually to the root directory to match this ^. If you have to do that, then just be sure re-locate the directory from within Github Desktop.
+- Return to GitHub desktop and it should show a message saying that it can no longer find the files.
+- Hit `Locate` and navigate to the Minecraft instance folder that you moved the files to and hit `Select Folder`
+- You should be now ready to play on the server and easily update to any new modpack versions.
 
 ## Usage
 - If there are any mod pack changes to the client, we will upload them here.
-- You can pull the changes from Github using a single button and all files should update automatically.
+- You can pull the changes from Github Desktop using a single button and all files should update automatically.
 
 ![Fetching & Pulling](https://github.com/user-attachments/assets/af4c6d7b-224b-46ee-bc12-f4b69ec976b8)
 
-- Only files in the /mods directory are managed with Github, so no worries about settings or local configs getting erased.
+- Only files in the /mods directory are managed with Github, so no worries about settings or local configs getting erased when you update the modpack. Files that also are not managed are shaderpacks and resourcepacks, so feel free to use any that you enjoy the most.
+- You are allowed to have any client side mods you wish on the server so long as you are able to actually join and play with no conflicts.
