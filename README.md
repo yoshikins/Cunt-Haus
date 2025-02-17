@@ -1,16 +1,16 @@
-# Willkommen im die Cunt-Haus
+# -
 
 ## Guide
 - Download [Github Desktop](https://desktop.github.com/download) and log in or make an account if you do not have one already.
 - Using [Curseforge](https://www.curseforge.com/download/app) or any other mod manager, create a minecraft instance with these specs:
-  - Minecraft Version `1.20.1`
-  - Forge Version `47.3.0`
+  - Minecraft Version ``
+  - Forge Version ``
 - Using Github Desktop, clone this repository into a temporary directory on your device using the repository URL.
 - It may take a moment to do so, as you're essentially downloading an uncompressed version of the modpack to your device.
 - When it's done cloning, make sure that you have hidden files visible in your file explorer, and move (not copy) all of the contents in the temporary directory to the Minecraft directory that your mod manager created.
-- It should look like this:
+- It should look something like this:
 
-![This is what it should look like](https://github.com/user-attachments/assets/2f18ce57-fe8e-4f50-8bc1-e82656762a4f)
+![This is what it should look like](https://github.com/user-attachments/assets/86eac326-1522-4ed1-ba08-efaa90642197)
 
 - Return to GitHub desktop and it should show a message saying that it can no longer find the files.
 - Hit `Locate` and navigate to the Minecraft instance folder that you moved the files to and hit `Select Folder`
